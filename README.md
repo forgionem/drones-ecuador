@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://datavizforall.github.io/leaflet-maps-with-google-sheets/index.html
+- Leaflet Map https://forgionem.github.io/drones-ecuador/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1J_xB-AkPYf9DqR0rL6d3T-hCzpykBTZhXrI1xZreVNw/edit#gid=0
 
 ## Create your own
